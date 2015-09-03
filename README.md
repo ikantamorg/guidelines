@@ -1,3 +1,3 @@
 # ikantam guidelines for the entire team
 
-* [Frontend guidelines](/frontend-guides)
+* [Frontend guidelines](/frontend-guides.md)
