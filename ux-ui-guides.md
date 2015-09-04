@@ -1,6 +1,6 @@
 # UI/UX Notes
 
-Improvments based on Material Design Principles
+Guide based on Material Design Principles
 
 ## Responsive interaction [Demo](http://codepen.io/ElmahdiMahmoud/full/gabXBW/)
 
