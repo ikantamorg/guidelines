@@ -1,12 +1,10 @@
-# AptDeco UI/UX Notes
+# UI/UX Notes
 
 Improvments based on Material Design Principles
 
-## Responsive interaction
+## Responsive interaction [Demo](http://codepen.io/ElmahdiMahmoud/full/gabXBW/)
 
 **Surface reaction:** from the point of input (the contact point of a fingere), make the visual reaction *touch ripple*.
-
-[Demo](http://codepen.io/ElmahdiMahmoud/full/gabXBW/)
 
 
 ## Writing
